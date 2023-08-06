@@ -2,8 +2,8 @@ body {
     padding-left: 11em;
     font-family: Georgia, "Times New Roman",
           Times, serif;
-    color: rgb(222, 249, 15);
-    background-color: #c09cda }
+    color: rgb(239, 102, 109);
+    background-color: #9cceda }
   ul.navbar {
     list-style-type: none;
     padding: 0;
@@ -19,7 +19,7 @@ body {
     background: white;
     margin: 0.5em 0;
     padding: 0.3em;
-    border-right: 1em solid rgb(215, 15, 15) }
+    border-right: 1em solid rgb(219, 140, 201) }
   ul.navbar a {
     text-decoration: none }
   a:link {
